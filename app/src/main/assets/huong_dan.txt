@@ -1,0 +1,4 @@
+// quy tắc gồm ba phần
+// mvc
+// model  view. controller
+//
